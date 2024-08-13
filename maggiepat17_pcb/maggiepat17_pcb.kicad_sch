@@ -7590,6 +7590,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C12530"
+			(at 142.24 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "760502bd-e31a-46f2-a4ef-80d27a0ec19b")
 		)
@@ -7718,6 +7727,15 @@
 		)
 		(property "Description" ""
 			(at 95.25 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25100"
+			(at 95.25 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8325,6 +8343,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 73.66 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C1525"
 			(at 73.66 153.67 0)
 			(effects
 				(font
@@ -9223,6 +9250,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C11702"
+			(at 135.89 25.4 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f165c5be-fd5d-49ba-a02b-d21fb1027136")
 		)
@@ -9283,6 +9319,15 @@
 		)
 		(property "Description" ""
 			(at 55.88 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25905"
+			(at 55.88 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9656,6 +9701,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C12530"
+			(at 109.22 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "32851d27-95d0-4f7e-9492-dd499b054989")
 		)
@@ -9781,6 +9835,15 @@
 			)
 		)
 		(property "Description" "1A Low drop-out regulator, Fixed Output 3.3V, SOT-223"
+			(at 110.49 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C347222"
 			(at 110.49 22.86 0)
 			(effects
 				(font
@@ -9947,6 +10010,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25100"
+			(at 95.25 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "47ac87b9-ec21-4264-a161-b151ec98c1b3")
 		)
@@ -10010,6 +10082,15 @@
 		)
 		(property "Description" ""
 			(at 135.89 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C130723"
+			(at 135.89 30.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10146,6 +10227,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 82.55 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C12530"
 			(at 82.55 153.67 0)
 			(effects
 				(font
@@ -10417,6 +10507,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 36.83 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25744"
 			(at 36.83 167.64 0)
 			(effects
 				(font
@@ -11387,6 +11486,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 124.46 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C13585"
 			(at 124.46 25.4 0)
 			(effects
 				(font
@@ -12621,6 +12729,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C190862"
+			(at 66.04 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1d240093-a276-4d2c-b73c-54765b6aff09")
 		)
@@ -12921,6 +13038,15 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+			(at 35.56 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C165948"
 			(at 35.56 48.26 0)
 			(effects
 				(font
@@ -13833,6 +13959,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C13585"
+			(at 97.79 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "08509952-8dfb-45c4-b4c0-8eb1d9ef889e")
 		)
@@ -14264,6 +14399,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 87.63 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C8598"
 			(at 87.63 22.86 0)
 			(effects
 				(font
@@ -15024,6 +15168,15 @@
 		)
 		(property "Description" ""
 			(at 55.88 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25905"
+			(at 55.88 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
